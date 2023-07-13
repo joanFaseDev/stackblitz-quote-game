@@ -34,6 +34,7 @@ export default function App() {
           source: "Reader's Digest",
         }}
       />
+      <Blockquote />
     </div>
   );
 }
